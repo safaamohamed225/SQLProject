@@ -1,16 +1,21 @@
 The Examination System Database Project is a comprehensive solution designed to streamline examination processes within educational institutions. It offers functionalities to manage student registrations, exam scheduling, grading, and result management efficiently.
 
 Examination System Database Project
+
 Overview
+
 The Examination System Database Project is a comprehensive solution designed to streamline examination processes within educational institutions. It offers functionalities to manage student registrations, exam scheduling, grading, and result management efficiently.
 
 Key Features
+
 Student Registration: Provides a platform for students to register for exams and courses.
 Exam Scheduling: Enables administrators to create and manage exam schedules, including dates, times, and venues.
 Grading System: Automates the grading process based on predefined criteria, ensuring accuracy and consistency.
 Result Management: Stores and manages exam results securely, allowing easy access for students and administrators.
 User Authentication: Implements secure user authentication mechanisms to control access to the system.
+
 Technologies Used
+
 Database Management System: SQL
 Database Schema
 The database schema consists of several tables to organize and manage data effectively:
